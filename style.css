@@ -1,0 +1,142 @@
+*{
+	margin: 0px;
+	font-family: arial;
+}
+.flex-container{
+	display: flex;
+}
+.onepera{
+	background: #ADFFC3;
+	color: #006938;
+	padding: 35px 25px 10px 25px;
+}
+.onepera h1{
+	font-size: 50px;
+	font-weight: 300;
+}
+.onepera p{
+	font-size: 30px;
+	font-weight: 500;
+}
+.onepera a{
+	font-size: 25px;
+	color: #006938;
+}
+.secondpera{
+	margin-top: 100px;
+	text-align: center;
+}
+.secondpera h1{
+	font-size: 40px;
+	color: #006938;
+	font-weight: 200;
+}
+.secondpera p{
+	font-size: 18px;
+	font-weight: 200;
+	color: #575756;
+}
+.secondpera a{
+	font-size: 40px;
+	color: #006938;
+}
+.thirdpera{
+	margin-left: 150px;
+	display: flex;
+	grid-column-gap: 20px; 
+}
+.thirdperaa{
+	margin-left: 200px;
+	text-align: center;
+	display: flex;
+	grid-column-gap: 180px; 
+	text-decoration: none;
+}
+.thirdperaa p{
+	text-align: center;
+	color: #156c3c;
+	font-size: 20px;
+}
+.thirdperaa a{
+	font-weight: bold;
+	color: #006937;
+
+}
+.fourthpera{
+	margin-right: 10px;
+}
+.fifthpera{
+	margin-left: 280px;
+	display: flex;
+	grid-column-gap: 180px;
+}
+.sixthpera{
+	margin-left: 150px;
+	margin-right: 150px;
+}
+.seventhpera{
+	text-align: center;
+	margin-left: 160px;
+	margin-right: 160px;
+	grid-column-gap: 20px;
+}
+.seventhpera h2{
+	font-size: 28px;
+	color: #016936;
+	font-weight: 200;
+	padding: 5px 10px 5px 10px;
+	text-align: justify;
+}
+.seventhpera p{
+	padding: 5px 10px 5px 10px;
+	text-align: justify;
+	color: #575756;
+	font-weight: 200;
+	font-size: 18px;
+}
+.tip1:hover{
+	color: #cde499;
+}
+.seventhpera a{
+	text-decoration: none;
+}
+.eightpera{
+	text-align: center;
+	margin-top: 50px;
+
+}
+.eightpera span{
+	background:#234F1E;
+	padding:15px 60px 15px 60px;
+}
+.eightpera a{
+	text-decoration: none;
+	color:white;
+	font-size: 20px;
+	font-weight: 300;
+}
+.ninthpera hr{
+	margin-left: 150px;
+	margin-right: 150px;
+}
+.ninthpera p{
+	margin-left: 170px;
+	font-weight: 200;
+	color: #050301;
+}
+.tenthpera{
+	background: #daebb2;
+	text-align: center;
+}
+.tenthperaa{
+	padding: 80px 0px 60px 0px;
+}
+.tenthpera span{
+	background:#234F1E;
+	padding:15px 60px 15px 60px;
+}
+.tenthpera a{
+	text-decoration: none;
+	color:white;
+	font-size: 20px;
+	font-weight: 300;
